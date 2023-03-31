@@ -3,7 +3,7 @@
 Summary:	Great Vibes font family
 Name:		fonts-ttf-great-vibes
 Version:	20190915
-Release:	1
+Release:	2
 License:	SIL Open Font License
 Group:		System/Fonts/True type
 URL:		https://www.fontsquirrel.com/fonts/great-vibes
